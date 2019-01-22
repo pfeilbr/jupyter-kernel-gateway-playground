@@ -29,6 +29,9 @@ open https://petstore.swagger.io
 # running `browser-client-example.js` in chrome DevTools
 open http://0.0.0.0:8888/api/swagger.json
 # open DevTools and run code in Sources | Snippets
+
+# push docker image
+docker push pfeilbr/jupyter-kernel-gateway
 ```
 
 ### Screenshots
